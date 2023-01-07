@@ -6,6 +6,10 @@
 - [VS Code](https://code.visualstudio.com/Download)   
   User Installer 64bit 설치   
   설치 후 환경설정 path에 추가되었는지 확인   
+  * Extensions 설치   
+    Live Server/Ritwick Dey   
+    Auto Rename Tag/Jun Han   
+    HTML to CSS autocompletion/solnurkarim
   <br>
   
 - Eclipse   
