@@ -1,10 +1,12 @@
 ## tool 설치 및 세팅, git 관련 코드 정리
-- MariaDB-MySQLWorkbench   
-
+- [MariaDB - MySQLWorkbench](https://github.com/Son-Sumin/mine/blob/main/MariaDB_MySQL%20Workbench.md)   
+  MariaDB 설치 후 [해당 링크](https://github.com/Son-Sumin/mine/blob/main/VC_redist.x64.exe) 설치 후 MySQLWorkbench 설치
+  <br>
+  
 - Eclipse   
 
 - [Pycharm](https://github.com/Son-Sumin/python-practices/blob/main/1017%20%ED%8C%8C%EC%9D%B4%EC%B0%B8%20%EC%84%A4%EC%B9%98.md)
-  * pip 활용
+  (pip 활용)
   <br>
 
 - [Linux 세팅](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)
