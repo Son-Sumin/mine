@@ -13,11 +13,17 @@
    <br>
    
  - MySQL Workbench
-   * root 계정
+   * root 계정 생성   
+     - '+' > Connection name, Username : root 입력 > Test Connection > ok   
+   * 일반 계정 생성 (root 계정 들어가서 아래 입력)     
+     - database 생성   
      ---create database cocktaildb default character set utf8mb4;   
+     - user 생성   
      ---create user 'cocktaildb'@'%' identified by '1234';   
      ---create user 'cocktaildb'@'localhost' identified by '1234';   
+     - 권한 부여   
      ---grant all privileges on cocktaildb.* to 'cocktaildb'@'%';   
      ---grant all privileges on cocktaildb.* to 'cocktaildb'@'localhost';   
+     - 새 변경사항 적용   
      ---flush privileges;   
   
