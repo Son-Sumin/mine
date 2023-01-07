@@ -9,7 +9,9 @@
   Windows(x86, 64-bit), MSI Installer(8.0.31) 다운로드 > No thanks, just start my download > VC_redist.x64.exe > 설치   
   <br>   
   
- - MariaDB cmd promp 관리자 버전 접속 > #mariadb -u root -p > #비밀번호 입력 > #show databases; > 잘 나오면 완료   
+ - MariaDB cmd promp 관리자 버전 접속 
+ ---mysql -u root -p > 비밀번호 입력 
+ ---show databases; > 잘 나오면 완료   
    <br>
    
  - MySQL Workbench
@@ -22,6 +24,8 @@
      ---create user 'cocktaildb'@'%' identified by '1234';   
      ---create user 'cocktaildb'@'localhost' identified by '1234';   
      - 권한 부여   
+       % : 모든 대상   
+       localhost : 해당 ip   
      ---grant all privileges on cocktaildb.* to 'cocktaildb'@'%';   
      ---grant all privileges on cocktaildb.* to 'cocktaildb'@'localhost';   
      - 새 변경사항 적용   
