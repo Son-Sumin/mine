@@ -3,6 +3,11 @@
   MariaDB 설치 후 [해당 링크](https://github.com/Son-Sumin/mine/blob/main/VC_redist.x64.exe) 설치 후 MySQLWorkbench 설치
   <br>
   
+- [VS Code](https://code.visualstudio.com/Download)   
+  User Installer 64bit 설치   
+  설치 후 환경설정 path에 추가되었는지 확인   
+  <br>
+  
 - Eclipse   
 
 - [Pycharm](https://github.com/Son-Sumin/python-practices/blob/main/1017%20%ED%8C%8C%EC%9D%B4%EC%B0%B8%20%EC%84%A4%EC%B9%98.md)
