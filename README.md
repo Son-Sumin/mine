@@ -4,12 +4,14 @@
   <br>
   
 - [VS Code](https://code.visualstudio.com/Download)   
-  User Installer 64bit 설치   
-  설치 후 환경설정 path에 추가되었는지 확인   
+  User Installer 64bit 설치 > 설치 후 환경설정 path에 추가되었는지 확인   
   * Extensions 설치   
-    Live Server/Ritwick Dey   
-    Auto Rename Tag/Jun Han   
-    HTML to CSS autocompletion/solnurkarim
+    - Live Server/Ritwick Dey    
+    - Auto Rename Tag/Jun Han   
+    - HTML to CSS autocompletion/solnurkarim   
+    - ESLint   
+    - File & Folder Icons   
+    - JavaScript (ES6) code snippets
   <br>
   
 - Eclipse   
@@ -32,3 +34,8 @@
 - [빅데이터 & 인공지능(AI)](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)
   * jupyter와 Windows Terminal로 miniconda 설치 및 세팅   
   * scraping
+  <br>
+  
+- 기타 설치 권장 Tool
+  * [Notepad++](https://notepad-plus-plus.org/downloads/)   
+  * 
