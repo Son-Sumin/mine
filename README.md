@@ -18,7 +18,9 @@
     - Prettier   
   <br>
  
-- [Java]()   
+- [Java](https://www.oracle.com/kr/java/technologies/javase/jdk12-archive-downloads.html)   
+  시스템변수 추가(C:\Program Files\Java\jdk-12.0.2\bin)   
+  cmd > #java --version > 버전 출력되면 설치 완료   
   
 - [Eclipse](https://www.eclipse.org/downloads/)   
   Eclipse IDE Download Packages > Eclipse IDE for Enterprise Java and Web Developers > Windows x86_64 설치   
@@ -50,4 +52,6 @@
   * Windows Terminal   
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
   * [Git](https://git-scm.com/download/win)   
-  * tomcat
+  * tomcat   
+  * nodejs   
+  * miniconda
