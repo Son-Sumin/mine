@@ -16,8 +16,8 @@
   
 - Eclipse   
 
-- [Pycharm](https://github.com/Son-Sumin/python-practices/blob/main/1017%20%ED%8C%8C%EC%9D%B4%EC%B0%B8%20%EC%84%A4%EC%B9%98.md)
-  (pip 활용)
+- [Pycharm](https://github.com/Son-Sumin/python-practices/blob/main/1017%20%ED%8C%8C%EC%9D%B4%EC%B0%B8%20%EC%84%A4%EC%B9%98.md) (pip 활용)
+  [Pycharm 설치](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
   <br>
 
 - [Linux 세팅](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)
@@ -36,6 +36,7 @@
   * scraping
   <br>
   
-- 기타 설치 권장 Tool
+- 기타 설치 권장 Tool   
   * [Notepad++](https://notepad-plus-plus.org/downloads/)   
-  * 
+  * Windows Terminal   
+    Microsoft Store > terminal 검색 > Windows Terminal 다운로드
