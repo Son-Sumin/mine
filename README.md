@@ -1,6 +1,7 @@
 ## tool 설치 및 세팅, git 관련 코드 정리
 - [MariaDB - MySQLWorkbench](https://github.com/Son-Sumin/mine/blob/main/MariaDB_MySQL%20Workbench.md)   
-  MariaDB 설치 후 [해당 링크](https://github.com/Son-Sumin/mine/blob/main/VC_redist.x64.exe) 설치 후 MySQLWorkbench 설치
+  MariaDB 설치 > [VC_redist.x64.exe](https://github.com/Son-Sumin/mine/blob/main/VC_redist.x64.exe) 설치 > MySQLWorkbench 설치   
+  > 시스템변수 추가(C:\Program Files\MariaDB 10.5\bin)
   <br>
   
 - [VS Code](https://code.visualstudio.com/Download)   
@@ -16,8 +17,9 @@
   
 - Eclipse   
 
-- [Pycharm](https://github.com/Son-Sumin/python-practices/blob/main/1017%20%ED%8C%8C%EC%9D%B4%EC%B0%B8%20%EC%84%A4%EC%B9%98.md) (pip 활용)
-  [Pycharm 설치](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
+- [Pycharm](https://github.com/Son-Sumin/python-practices/blob/main/1017%20%ED%8C%8C%EC%9D%B4%EC%B0%B8%20%EC%84%A4%EC%B9%98.md) (pip 활용)   
+  [Pycharm 설치](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)   
+  community 다운로드 > 시스템변수 추가(C:\Program Files\JetBrains\PyCharm Community Edition 2022.3.1\bin)
   <br>
 
 - [Linux 세팅](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)
@@ -39,4 +41,5 @@
 - 기타 설치 권장 Tool   
   * [Notepad++](https://notepad-plus-plus.org/downloads/)   
   * Windows Terminal   
-    Microsoft Store > terminal 검색 > Windows Terminal 다운로드
+    Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
+  * Git
