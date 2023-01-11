@@ -6,14 +6,19 @@
   
 - [VS Code](https://code.visualstudio.com/Download)   
   User Installer 64bit 설치 > 시스템변수 추가(C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin)   
-  * Extensions 설치   
-    - Live Server/Ritwick Dey    
-    - Auto Rename Tag/Jun Han   
+  * Extensions 설치 권장   
+    - Live Server    
+    - Auto Rename Tag   
     - HTML to CSS autocompletion/solnurkarim   
     - ESLint   
     - File & Folder Icons   
-    - JavaScript (ES6) code snippets
+    - JavaScript (ES6) code snippets   
+    - Jupyter   
+    - ES7+ React/Redux/React-Native snippets   
+    - Prettier   
   <br>
+ 
+- [Java]()   
   
 - [Eclipse](https://www.eclipse.org/downloads/)   
   Eclipse IDE Download Packages > Eclipse IDE for Enterprise Java and Web Developers > Windows x86_64 설치   
@@ -44,4 +49,5 @@
   * [Notepad++](https://notepad-plus-plus.org/downloads/)   
   * Windows Terminal   
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
-  * [Git](https://git-scm.com/download/win)
+  * [Git](https://git-scm.com/download/win)   
+  * tomcat
