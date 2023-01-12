@@ -1,7 +1,9 @@
 ## tool 설치 및 세팅, git 관련 코드 정리
 - [MariaDB - MySQLWorkbench](https://github.com/Son-Sumin/mine/blob/main/MariaDB_MySQL%20Workbench.md)   
   MariaDB 설치 > [VC_redist.x64.exe](https://github.com/Son-Sumin/mine/blob/main/VC_redist.x64.exe) 설치 > MySQLWorkbench 설치 >   
-  시스템변수 추가(C:\Program Files\MariaDB 10.5\bin)
+  시스템변수 추가(C:\Program Files\MariaDB 10.5\bin)   
+  cmd > #mariadb --version > 버전 출력되면 설치 완료   
+  cmd > #mysql --version > 버전 출력되면 설치 완료   
   <br>
   
 - [VS Code](https://code.visualstudio.com/Download)   
@@ -21,9 +23,9 @@
 - [Java](https://www.oracle.com/kr/java/technologies/javase/jdk12-archive-downloads.html)   
   시스템변수 추가(C:\Program Files\Java\jdk-12.0.2\bin)   
   cmd > #java --version > 버전 출력되면 설치 완료   
+  <br>
   
-- [Eclipse](https://www.eclipse.org/downloads/)   
-  Eclipse IDE Download Packages > Eclipse IDE for Enterprise Java and Web Developers > Windows x86_64 설치   
+- [Eclipse](https://github.com/Son-Sumin/mine/blob/main/Eclipse.md)   
   <br>
   
 - [Pycharm](https://github.com/Son-Sumin/python-practices/blob/main/1017%20%ED%8C%8C%EC%9D%B4%EC%B0%B8%20%EC%84%A4%EC%B9%98.md) (pip 활용)   
