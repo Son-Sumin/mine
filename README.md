@@ -60,5 +60,5 @@
     Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
     cmd > #node --version > 버전 출력되면 설치 완료
   * miniconda   
-  * jenkins   
-  * VirtualBox, Xshell5  
+  * [jenkins](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)   
+  * [VirtualBox, Xshell5, CentOS7](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)   
