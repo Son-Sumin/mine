@@ -54,7 +54,11 @@
   * Windows Terminal   
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
   * [Git](https://git-scm.com/download/win)   
+    cmd > #git --version > 버전 출력되면 설치 완료
   * tomcat   
-  * [Node.js](https://nodejs.org/ko/download/)
+  * [Node.js](https://nodejs.org/ko/download/)   
     Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
-  * miniconda
+    cmd > #node --version > 버전 출력되면 설치 완료
+  * miniconda   
+  * jenkins   
+  * VirtualBox, Xshell5  
