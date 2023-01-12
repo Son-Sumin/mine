@@ -55,5 +55,6 @@
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
   * [Git](https://git-scm.com/download/win)   
   * tomcat   
-  * nodejs   
+  * [Node.js](https://nodejs.org/ko/download/)
+    Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
   * miniconda
