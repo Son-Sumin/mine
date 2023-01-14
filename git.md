@@ -24,13 +24,32 @@
 
 * * *
 
-### branch
+### branch 생성, 이동, 삭제
+- branch 생성 및 생성된 branch로 전환
+  * git checkout -b <branch 이름>
+- branch 생성
+  * git branch <branch 이름>
+- branch로 전환
+  * git checkout <branch>
+- branch 삭제
+  * git branch -d <branch 이름> 
+- branch 강제 삭제(위 경우 불가 시 사용)
+  * git branch -D <branch 이름>
+  <br>
+
+### branch 조회 및 관리, 작업
 - branch 목록 조회 ('*' 가 현재 branch)   
   * git branch
 - 원격 branch 목록 조회
   * git branch -r
 - 전체 branch 목록 조회
   * git branch -a
+ <br>
+
+- branch에 push
+  * git push origin <branch 이름>
+- 원격저장소 내용을 branch 로컬저장소로 가져오
+  * git pull <remote> <branch> 
 <br>
 
 * * *
