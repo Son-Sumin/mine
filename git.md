@@ -48,10 +48,20 @@
 
 - branch에 push
   * git push origin <branch 이름>
-- 원격저장소 내용을 branch 로컬저장소로 가져오
-  * git pull <remote> <branch> 
+- 원격저장소 내용을 branch 로컬저장소로 가져오기   
+  * git pull <remote 이름> <branch 이름>   
 <br>
 
+### merge
+- merge하기 위해서는 merge하는 branch로 이동 후 merge하려는 branch를 합쳐야한다.   
+   * git checkout <branch 이름>   
+     git merge <branch 이름>   
+ 
+> 예시) main에  A branch를 merge하기   
+        git checkout main   
+        git merge A
+
+ 
 * * *
 
 ### gitignore 추후 적용   
