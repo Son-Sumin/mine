@@ -42,16 +42,16 @@
   * 고정아이피 설정   
   <br>
   
-- [django 세팅](https://github.com/Son-Sumin/django)   
-  * Django - Pycharm - MariaDB   
-  * django로 project-app 생성   
-  <br>
-  
 - [빅데이터 & 인공지능(AI)](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)
   * jupyter와 Windows Terminal로 miniconda 설치 및 세팅   
   * scraping
   <br>
   
+- [django 세팅](https://github.com/Son-Sumin/django)   
+  * Django - Pycharm - MariaDB   
+  * django로 project-app 생성   
+  <br>
+   
 - 기타 설치 권장 Tool   
   * [Notepad++](https://notepad-plus-plus.org/downloads/)   
   * Windows Terminal   
@@ -62,11 +62,10 @@
   * [Node.js](https://nodejs.org/ko/download/)   
     Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
     cmd > #node --version > 버전 출력되면 설치 완료
-  * Miniconda   
-  * Jupyter
+  * [Miniconda, Jupyter](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)   
   * [jenkins](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)   
-  * [VirtualBox, Xshell5, CentOS7](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)   
-  
+  * [VirtualBox, Xshell5, CentOS7](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)     
   <br>
+  
   * [ALPDF](https://www.altools.co.kr/download/alpdf.aspx)   
   * Slack
