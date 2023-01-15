@@ -58,10 +58,15 @@
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
   * [Git](https://git-scm.com/download/win)   
     cmd > #git --version > 버전 출력되면 설치 완료
-  * tomcat   
+  * [Tomcat](https://tomcat.apache.org/download-90.cgi)   
   * [Node.js](https://nodejs.org/ko/download/)   
     Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
     cmd > #node --version > 버전 출력되면 설치 완료
-  * miniconda   
+  * Miniconda   
+  * Jupyter
   * [jenkins](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)   
   * [VirtualBox, Xshell5, CentOS7](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)   
+  
+  <br>
+  * [ALPDF](https://www.altools.co.kr/download/alpdf.aspx)   
+  * Slack
