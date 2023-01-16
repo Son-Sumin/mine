@@ -53,18 +53,20 @@
   <br>
    
 - 기타 설치 권장 Tool   
-  * [Notepad++](https://notepad-plus-plus.org/downloads/)   
-  * Windows Terminal   
-    Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
   * [Git](https://git-scm.com/download/win)   
     cmd > #git --version > 버전 출력되면 설치 완료
   * [Tomcat](https://tomcat.apache.org/download-90.cgi)   
+  * [jenkins](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)   
+  * [VirtualBox, Xshell5, CentOS7](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)     
+  * [BootStrap](https://getbootstrap.com/docs/3.4/getting-started/)   
   * [Node.js](https://nodejs.org/ko/download/)   
     Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
     cmd > #node --version > 버전 출력되면 설치 완료
   * [Miniconda, Jupyter](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)   
-  * [jenkins](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)   
-  * [VirtualBox, Xshell5, CentOS7](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)     
+  * [Notepad++](https://notepad-plus-plus.org/downloads/)   
+  * Windows Terminal   
+    Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
+  * Office365
   <br>
   
   * [ALPDF](https://www.altools.co.kr/download/alpdf.aspx)   
