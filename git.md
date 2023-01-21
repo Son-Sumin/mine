@@ -63,6 +63,12 @@
         git checkout main   
         git merge A
 
+### compare&pull request 불가 시
+- 에러 내용 : "There isn't anything to compare"
+  * git checkout master   
+    git branch main master -f   
+    git checkout main   
+    git push origin main -f   
  
 * * *
 
