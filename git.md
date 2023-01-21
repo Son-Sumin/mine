@@ -31,10 +31,12 @@
   * git branch <branch 이름>
 - branch로 전환
   * git checkout <branch>
-- branch 삭제
+- local branch 삭제
   * git branch -d <branch 이름> 
-- branch 강제 삭제(위 경우 불가 시 사용)
+- local branch 강제 삭제(위 경우 불가 시 사용)
   * git branch -D <branch 이름>
+ - remote branch 삭제
+  * git push <remote 이름> —delete <branch 이름>
   <br>
 
 ### branch 조회 및 관리, 작업
