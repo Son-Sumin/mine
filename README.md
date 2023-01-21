@@ -71,4 +71,8 @@
   <br>
   
   * [ALPDF](https://www.altools.co.kr/download/alpdf.aspx)   
-  * Slack
+  * [7-Zip](https://www.7-zip.org/download.html)   
+    64-bit Windows x64 다운로드   
+  * [Slack](https://slack.com/intl/ko-kr/downloads/windows)   
+    사이트, 앱으로 사용 가능
+  
