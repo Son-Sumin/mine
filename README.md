@@ -36,7 +36,7 @@
   community 다운로드 > 시스템변수 추가(C:\Program Files\JetBrains\PyCharm Community Edition 2022.3.1\bin)
   <br>
 
-- [Linux 세팅](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)
+- [Linux 세팅](https://github.com/Son-Sumin/Linux)
   * VirtualBox, Xshell5   
   * tomcat, java, git, mariadb, maven, jenkins, 기존 프로젝트 jenkins 실행   
   * 고정아이피 설정   
