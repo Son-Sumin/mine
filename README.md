@@ -57,7 +57,7 @@
     cmd > #git --version > 버전 출력되면 설치 완료
   * [Tomcat](https://tomcat.apache.org/download-90.cgi)   
   * [jenkins](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)   
-  * [VirtualBox, Xshell5, CentOS7](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)    
+  * [VirtualBox, Xshell5, CentOS7](https://github.com/Son-Sumin/Linux)    
   * [Ubuntu](https://ubuntu.com/download/desktop)   
   * [BootStrap](https://getbootstrap.com/docs/3.4/getting-started/)   
   * [Node.js](https://nodejs.org/ko/download/)   
