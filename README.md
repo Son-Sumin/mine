@@ -61,6 +61,7 @@
   * [Ubuntu](https://ubuntu.com/download/desktop)   
   * [BootStrap](https://getbootstrap.com/docs/3.4/getting-started/)   
   * [Node.js](https://nodejs.org/ko/download/)   
+    (Node.js 설치 시 npm 자동 설치됨)   
     Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
     cmd > #node --version > 버전 출력되면 설치 완료
   * [Miniconda, Jupyter](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)   
