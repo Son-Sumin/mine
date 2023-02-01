@@ -23,6 +23,7 @@
     - Prettier   
     - Live Sass Compiler   
     - Sass   
+    - Live Preview   
   <br>
  
 - [Java](https://www.oracle.com/kr/java/technologies/javase/jdk12-archive-downloads.html)   
