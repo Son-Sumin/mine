@@ -21,6 +21,8 @@
     - Jupyter   
     - ES7+ React/Redux/React-Native snippets   
     - Prettier   
+    - Live Sass Compiler   
+    - Sass   
   <br>
  
 - [Java](https://www.oracle.com/kr/java/technologies/javase/jdk12-archive-downloads.html)   
@@ -68,12 +70,13 @@
   * [Notepad++](https://notepad-plus-plus.org/downloads/)   
   * Windows Terminal   
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
-  * Office365
+  * [Lombok](https://projectlombok.org/download)   
   <br>
   
   * [ALPDF](https://www.altools.co.kr/download/alpdf.aspx)   
   * [7-Zip](https://www.7-zip.org/download.html)   
     64-bit Windows x64 다운로드   
   * [Slack](https://slack.com/intl/ko-kr/downloads/windows)   
-    사이트, 앱으로 사용 가능
+    사이트, 앱으로 사용 가능   
+  * Office365
   
