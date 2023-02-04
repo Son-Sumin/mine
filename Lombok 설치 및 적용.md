@@ -19,6 +19,7 @@
       <img width="600" alt="캡처4" src="https://user-images.githubusercontent.com/114986832/216750306-2aca8f7d-b378-40e3-98bd-f2a7872de07f.PNG">   
       
     - Install successful 뜨면 Quit Installer 클릭 후 설치 종료
+    - Eclipse rebooting
 
 
    
