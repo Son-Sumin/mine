@@ -72,6 +72,7 @@
   * Windows Terminal   
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
   * [Lombok](https://projectlombok.org/download)   
+    [Lombok 설치 및 Eclipse 적용 불가 시 해결법](https://github.com/Son-Sumin/mine/blob/main/Lombok%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%81%EC%9A%A9.md)   
   <br>
   
   * [ALPDF](https://www.altools.co.kr/download/alpdf.aspx)   
