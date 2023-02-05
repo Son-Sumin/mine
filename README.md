@@ -1,8 +1,8 @@
-# tool 설치 및 세팅, git 명령어 정리 repository
-> [git 명령어 정리](https://github.com/Son-Sumin/mine/blob/main/git.md)
-> [github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+# tool 설치 및 세팅, git 명령어 정리 repository   
+> - [git 명령어 정리](https://github.com/Son-Sumin/mine/blob/main/git.md)   
+> - [github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
-## tool 설치 및 세팅
+## tool 설치 및 세팅   
 - [MariaDB - MySQLWorkbench](https://github.com/Son-Sumin/mine/blob/main/MariaDB_MySQL%20Workbench.md)   
   MariaDB 설치 > [VC_redist.x64.exe](https://github.com/Son-Sumin/mine/blob/main/VC_redist.x64.exe) 설치 > MySQLWorkbench 설치 >   
   시스템변수 추가(C:\Program Files\MariaDB 10.5\bin)   
