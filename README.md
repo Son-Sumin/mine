@@ -1,5 +1,6 @@
 # tool 설치 및 세팅, git 명령어 정리 repository
 > [git 명령어 정리](https://github.com/Son-Sumin/mine/blob/main/git.md)
+> [github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 ## tool 설치 및 세팅
 - [MariaDB - MySQLWorkbench](https://github.com/Son-Sumin/mine/blob/main/MariaDB_MySQL%20Workbench.md)   
