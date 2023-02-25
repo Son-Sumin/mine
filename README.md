@@ -69,16 +69,19 @@
     Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
     cmd > #node --version > 버전 출력되면 설치 완료
   * [Miniconda, Jupyter](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)   
-  * [Notepad++](https://notepad-plus-plus.org/downloads/)   
-  * Windows Terminal   
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
   * [Lombok](https://projectlombok.org/download)   
     [Lombok 설치 및 Eclipse 적용 불가 시 해결법](https://github.com/Son-Sumin/mine/blob/main/Lombok%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%81%EC%9A%A9.md)   
+  * [Postman](https://www.postman.com/downloads/)   
+  * [Swagger]()   
   <br>
-  
+
+- 기타 Tool   
   * [ALPDF](https://www.altools.co.kr/download/alpdf.aspx)   
   * [7-Zip](https://www.7-zip.org/download.html)   
     64-bit Windows x64 다운로드   
+  * [Notepad++](https://notepad-plus-plus.org/downloads/)   
+  * Windows Terminal   
   * [Slack](https://slack.com/intl/ko-kr/downloads/windows)   
     사이트, 앱으로 사용 가능   
   * Office365
