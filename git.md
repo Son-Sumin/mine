@@ -92,12 +92,12 @@ git init
 git add README.md    
 git commit -m "first commit"   
 git branch -M main    
-git remote add origin https://github.com/Son-Sumin/folders.git   
+git remote add origin <추가하려는 레포지토리 주소>   
 git push -u origin main    
 <br>
 
 ### push an existing repository from the command line    
-git remote add origin https://github.com/Son-Sumin/folders.git    
+git remote add origin <추가하려는 레포지토리 주소>    
 git branch -M main   
 git push -u origin main   
 <br>
