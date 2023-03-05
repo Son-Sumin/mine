@@ -102,4 +102,16 @@ git branch -M main
 git push -u origin main   
 <br>
 
+* * *
 
+### repository 합치기   
+통합할 새로운 repository "A" 생성   
+repository A를 둘 폴더로 이동   
+git clone <repository A 주소>
+repository A 폴더로 이동   
+git subtree add --prefix=<합칠 repository 이름> <합칠 repository 주소> <합칠 repository branch 이름>    
+git add -A   
+git commit -m "~"   
+git branch -M main    
+git push -u origin main    
+<br>
