@@ -74,6 +74,8 @@
     [Lombok 설치 및 Eclipse 적용 불가 시 해결법](https://github.com/Son-Sumin/mine/blob/main/Lombok%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%81%EC%9A%A9.md)   
   * [Postman](https://www.postman.com/downloads/)   
   * [Swagger](https://github.com/Son-Sumin/mine/blob/main/Swagger%20dependency.md)   
+  * [Redis](https://oingdaddy.tistory.com/225)   
+    해당 링크 참고하여 설치 후 확인
   <br>
 
 - 기타 Tool   
