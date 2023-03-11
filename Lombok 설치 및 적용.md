@@ -21,5 +21,15 @@
     - Install successful 뜨면 Quit Installer 클릭 후 설치 종료
     - Eclipse rebooting
 
+* * *
 
-   
+- Eclipse rebooting 후에도 Lombok getter/setter가 적용이 안 된다면   
+  - eclipse.ini 확인   
+  - "-javaagent:Lombok 설치한 경로" 추가되었는지 확인   
+  - 안되어 있을 시 "-javaagent:Lombok 설치한 경로" 또는 -vmargs 아래에 다음 사항 추가
+    <pre>
+      -Xbootclasspath/a:lombok.jar
+      -javaagent:lombok.jar
+    </pre>
+   - Eclipse rebooting   
+   - 상단 Project → clean
