@@ -75,7 +75,10 @@
   * [Postman](https://www.postman.com/downloads/)   
   * [Swagger](https://github.com/Son-Sumin/mine/blob/main/Swagger%20dependency.md)   
   * [Redis](https://oingdaddy.tistory.com/225)   
-    해당 링크 참고하여 설치 후 확인
+    해당 링크 참고하여 설치 후 확인   
+  * MobaXterm
+  * [FileZilla Download](https://filezilla-project.org/)   
+    Download FileZilla Client
   <br>
 
 - 기타 Tool   
