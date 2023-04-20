@@ -1,6 +1,9 @@
 # tool 설치 및 세팅, git 명령어 정리 repository   
 > - [git 명령어 정리](https://github.com/Son-Sumin/mine/blob/main/git.md)   
 > - [github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+<br>
+
+## Deployment
 
 ## tool 설치 및 세팅   
 - [MariaDB - MySQLWorkbench](https://github.com/Son-Sumin/mine/blob/main/MariaDB_MySQL%20Workbench.md)   
@@ -89,9 +92,9 @@
   * Windows Terminal   
   * [Slack](https://slack.com/intl/ko-kr/downloads/windows)   
     사이트, 앱으로 사용 가능   
-  * Office365
-  * WPS
-  * Google Driver
-    [설치 간 참고 링크](https://github.com/Son-Sumin/ml_dl/tree/main/scraping)
-    (크롤링 selenium을 구글에서 사용할 것이므로 설치)
-    (다른 사이트 크롤링 시 해당 드라이버 설치)
+  * Office365   
+  * WPS   
+  * Google Driver   
+    [설치 간 참고 링크](https://github.com/Son-Sumin/ml_dl/tree/main/scraping)   
+    (크롤링 selenium을 구글에서 사용할 것이므로 설치)   
+    (다른 사이트 크롤링 시 해당 드라이버 설치)   
