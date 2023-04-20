@@ -1,9 +1,9 @@
-# tool 설치 및 세팅, git 명령어 정리 repository   
+# tool 설치 및 세팅, git 명령어 정리, Deployment
 > - [git 명령어 정리](https://github.com/Son-Sumin/mine/blob/main/git.md)   
-> - [github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+> - [github markdown emoji markup](https://gist.github.com/rxaviers/7360908)   
+>    
+> - [Deployment](https://github.com/Son-Sumin/springboot-test/tree/main/deployment)
 <br>
-
-## Deployment
 
 ## tool 설치 및 세팅   
 - [MariaDB - MySQLWorkbench](https://github.com/Son-Sumin/mine/blob/main/MariaDB_MySQL%20Workbench.md)   
