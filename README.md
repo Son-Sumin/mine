@@ -90,3 +90,8 @@
   * [Slack](https://slack.com/intl/ko-kr/downloads/windows)   
     사이트, 앱으로 사용 가능   
   * Office365
+  * WPS
+  * Google Driver
+    [설치 간 참고 링크](https://github.com/Son-Sumin/ml_dl/tree/main/scraping)
+    (크롤링 selenium을 구글에서 사용할 것이므로 설치)
+    (다른 사이트 크롤링 시 해당 드라이버 설치)
