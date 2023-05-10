@@ -63,7 +63,7 @@
   * [Git](https://git-scm.com/download/win)   
     cmd > #git --version > 버전 출력되면 설치 완료
   * [Tomcat](https://tomcat.apache.org/download-90.cgi)   
-    [Tomcat 설치 확인](https://www.iotworks.co.kr/xe/index.php?mid=Server&document_srl=59397)
+    [Tomcat 설치 확인](https://www.iotworks.co.kr/xe/index.php?mid=Server&document_srl=59397)   
   * [jenkins](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)   
   * [VirtualBox, Xshell5, CentOS7](https://github.com/Son-Sumin/Linux)    
   * [Ubuntu](https://ubuntu.com/download/desktop)   
@@ -80,7 +80,8 @@
   * [Swagger](https://github.com/Son-Sumin/mine/blob/main/Swagger%20dependency.md)   
   * [Redis](https://oingdaddy.tistory.com/225)   
     해당 링크 참고하여 설치 후 확인   
-  * MobaXterm
+  * [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)   
+    Installer edition 설치
   * [FileZilla Download](https://filezilla-project.org/)   
     Download FileZilla Client
   <br>
