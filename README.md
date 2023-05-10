@@ -13,6 +13,10 @@
   cmd > #mysql --version > 버전 출력되면 설치 완료   
   <br>
   
+- [Oracle Database Express Edition(XE)](https://www.oracle.com/database/technologies/xe-downloads.html)   
+- [Oracle SQL Developer](https://www.oracle.com/database/sqldeveloper/technologies/download/)
+<br>
+
 - [VS Code](https://code.visualstudio.com/Download)   
   User Installer 64bit 설치 > 시스템변수 추가(C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin)   
   * Extensions 설치 권장   
