@@ -71,7 +71,8 @@
   * [Node.js](https://nodejs.org/ko/download/)   
     (Node.js 설치 시 npm 자동 설치됨)   
     Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
-    cmd > #node --version > 버전 출력되면 설치 완료
+    cmd > $ node --version > 버전 출력되면 설치 완료
+    cmd > $ npm --version > 버전 출력되면 설치 완료
   * [Miniconda, Jupyter](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)   
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
   * [Lombok](https://projectlombok.org/download)   
