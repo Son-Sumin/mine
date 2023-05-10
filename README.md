@@ -14,6 +14,8 @@
   <br>
   
 - [Oracle Database Express Edition(XE)](https://www.oracle.com/database/technologies/xe-downloads.html)   
+  압축 해제 > setup.exe 실행 > 우클릭 > 관리자 권한 실행 > 설치 시작 > 설치 중 설치경로 지정 가능 > 비밀번호(암기)!! > 완료
+  바탕화면 하단 작업 표시줄에서 '서비스' 검색 > **OracleServletXE** 와 **OracleXETNSListener** 의 **'상태:시작됨, 시작유형:자동'** 확인
 - [Oracle SQL Developer](https://www.oracle.com/database/sqldeveloper/technologies/download/)
 <br>
 
