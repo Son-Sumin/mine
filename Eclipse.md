@@ -15,4 +15,10 @@
 
   - 상단 Window > Preferences > Java > 
     Compiler > Compiler compliance level : Java 설치 버전으로 세팅   
-    installed JREs > 존재하는거 지우고 jdk 설치 경로 add (C:\Program Files\Java\jdk-12.0.2)
+    installed JREs > 존재하는거 지우고 jdk 설치 경로 add (C:\Program Files\Java\jdk-12.0.2)   
+<br>
+
+- file upload setting   
+  - 상단 Window > Preferences >   
+    workspace 검색 > Refresh using native hooks or polling 체크   
+    ![file upload setting](https://github.com/Son-Sumin/mine/assets/114986832/1d6a321a-56e0-4868-b133-0fe7349aa925)
