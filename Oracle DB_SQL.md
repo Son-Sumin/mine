@@ -39,15 +39,19 @@
   
   - 설치 테스트   
     아래 그림에 맞게 설치 진행   
+    그림에는 '비밀번호 저장'이 check되어 있음(개인용은 상관 없으나 사무실용은 unckeck!)   
     ![oracle](https://github.com/Son-Sumin/mine/assets/114986832/86dd24ba-81c8-442f-ae74-5bd919eb6a71)
 
-    6 저장 후 **The Network Adapter could not establish the connection** 에러 발생시   
-    ```
-    cmd > $ ipconfig > IPv4 주소 확인   
-    Oracle SQL Developer > 호스트 이름 : localhost → IPv4 주소 > 저장
-    ```
-    그림의 <> 과 같이 생성   
-    좌측 베너 > SYSTEM\테이블(필터링됨)\하위 아무거나 더블클릭 > 나오면 설치 테스트 완료
+    - 6 저장 후 **The Network Adapter could not establish the connection** 에러 발생시   
+      ```
+      cmd > $ ipconfig > IPv4 주소 확인   
+      Oracle SQL Developer > 호스트 이름 : localhost → IPv4 주소 > 저장
+      ```
+    그림의 <> 과 같이 생성됨   
+    좌측 베너 > SYSTEM\테이블(필터링됨)\하위 아무거나 더블클릭 > 나오면 설치 테스트 완료   
+    <br>
+    
+    추후 생성된 DB에 접속할 때 위 그림에서 테스트 버튼 클릭 시 "상태:성공" 이 되야 접속 가능   
   <br><br>
 
 <참고 사이트>   
