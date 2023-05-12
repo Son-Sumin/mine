@@ -1,4 +1,4 @@
-##  SQL Plus, Oracle Developer 사용법 및 기본 명령어
+##  SQL Plus, SQL Developer 사용법 및 기본 명령어
 -  SQL Plus : SQL 명령어를 직접 입력하여 그 결과를 바로 확인할 수 있는 console 도구 (Oracle 설치시 포함)
 -  Oracle Developer : GUI 환경에서 SQL 작업  
 - [[Oracle] SQL developer 유용한 환경설정/단축키](https://loghada.tistory.com/12)
@@ -12,18 +12,23 @@
 - SQL Plus 사용법
   ```
   ○ 접속방법   
-    1. 시작줄 'sql' 검색 > SQL Plus 접속  
+    1. 시작줄 'sql' 검색 > SQL Plus으로 바로 접속  
     2. cmd >
        - SYS계정 외 접속
          $ sqlplus 계정명/비밀번호   
        
        - SYS계정 접속
-         $ SQLPLUS " / as sysdba"
+         $ SQLPLUS "/ as sysdba"
+         
+       - 로그인 없이 SQLPlus 에 접속한 후 나중에 Connect 또는 Conn 명령어로 DB 로그인
+         $ SQLPLUS/nolog
          
          
   ○ SYS계정 로그인 방법
-     SQL Plus 접속 > 
+   1 SQL Plus 접속 > 
      사용자명 입력: $ /as sysdba
+     
+   2 cmd > $ sqlplus "/as sysdba"
 
 
   ○ 계정 정보 확인
@@ -70,8 +75,9 @@
 
 - 권한 부여   
   - 생성된 사용자 계정에 권한을 부여   
-  - connect: DB에 접속을 위한 권한   
-  - resource: 테이블 생성을 위한 권한   
+  - CONNECT : 사용자가 DB에 접속 가능하도록 가장 기본적인 시스템 권한 8가지를 묶어놓음 (R 가능)   
+  - RESOURCE : 사용자가 객체(테이블, 뷰, 인덱스)를 생성할 수 있는 시스템 권한을 묶어놓음 (CRUD 가능)    
+  - DBA : 사용자가 시스템 관리에 필요한 모든 권한을 부여할 수 있는 강력한 권한 (CRUD, DB 조와 보안, 백업 및 복원, 권한 관리 등)
   ``` sql
     GRANT resource, connect TO 사용자이름 ;
   ```
@@ -178,7 +184,15 @@
     ``` sql
     DROP TABLE DEPARTMENT;
     ```
+<br>
 
+- ERD 생성   
+  SQL Developer > (상단) 파일 > Data Modeler > 임포트 > 데이터 딕셔너리   
+  데이터베이스 선택 후 (하단) 다음 > 임포트하려는 스키마/데이터베이스 선택 > 임포트할 객체(테이블) 선택 > 완료   
+  
+  - FK 명시적으로 관계되어 있지 않으나 서로 참조관계가 있는 경우   
+    암묵적 참조를  추가하고자 하는 테이블 선택 > 우클릭 > implied Foreign Keys Dialog   
+    상단 + > Target Object, Local Column, Referenced Object, Referenced Column 선택 > 확인   
 <br><br>
 
 <참고 사이트>
