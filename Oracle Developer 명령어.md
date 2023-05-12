@@ -1,4 +1,27 @@
-## Oracle Developer 기본 명령어
+##  SQL Plus, Oracle Developer 사용법 및 기본 명령어
+-  SQL Plus : SQL 명령어를 직접 입력하여 그 결과를 바로 확인할 수 있는 console 도구 (Oracle 설치시 포함)
+-  Oracle Developer : GUI 환경에서 SQL 작업  
+- [[Oracle] SQL developer 유용한 환경설정/단축키](https://loghada.tistory.com/12)
+<br>
+
+- SYS vs SYSTEM
+  - SYS : 오라클 DB 관리자(SUPER USER)로서 DB 생성 가능, /as sysdba 로 접속
+  - SYSTEM : 권한은 SYS와 같으나 DB 생성 권한 없음, 패스워드는 설치 시 직접 설정함
+<br>
+
+- SQL Plus 사용법
+  - 접속방법   
+    - 시작줄 'sql' 검색   
+    - cmd > $ sqlplus 계정명/비밀번호   
+
+  - SYS계정 로그인 방법
+     - SQL Plus 접속 > 사용자명 입력: $ /as sysdba
+
+  - 계정 정보 확인
+    - 계정명은 dba_users 테이블의 username 칼럼에 저장되어 있음
+      ``` sql
+        SELECT USERNAME FROM DBA_USERS;
+      ```      
 <br>
 
 - 사용자 생성   
@@ -35,7 +58,6 @@
   - 테이블명은 가능한 단수형, 다른 테이블과 중복 불가, 반드시 문자로 시작   
   - 각 컬럼은 "," 구분, 테이블 생성문은 ";" 로 종결
   - 컬럼명 뒤에 데이터타입 반드시 지정
-  - 
   ``` sql
     CREATE TABLE 테이블명(컬럼명 컬럼타입);
   ```
