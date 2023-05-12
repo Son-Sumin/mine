@@ -21,7 +21,7 @@
   ```
    Oracle 서버 최고 관리자 : system 또는 sys
   ```
-  - [Oracle SQL Developer 기본 명령어]https://github.com/Son-Sumin/mine/blob/main/Oracle%20Developer%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+  - [Oracle SQL Developer 기본 명령어](https://github.com/Son-Sumin/mine/blob/main/Oracle%20Developer%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 <br>
 
 - [VS Code](https://code.visualstudio.com/Download)   
