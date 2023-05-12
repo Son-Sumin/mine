@@ -11,17 +11,14 @@
   시스템변수 추가(C:\Program Files\MariaDB 10.5\bin)   
   cmd > #mariadb --version > 버전 출력되면 설치 완료   
   cmd > #mysql --version > 버전 출력되면 설치 완료   
-  ```
-   MySQL 서버 최고 관리자 : root
-  ```
+  참고) MySQL 서버 최고 관리자 : root
+
   <br>
   
 - [Oracle Database Express Edition(XE)](https://github.com/Son-Sumin/mine/blob/main/Oracle%20DB_SQL.md)   
 - [Oracle SQL Developer](https://github.com/Son-Sumin/mine/blob/main/Oracle%20DB_SQL.md)
-  ```
-   Oracle 서버 최고 관리자 : system 또는 sys
-  ```
-  - [Oracle SQL Developer 기본 명령어](https://github.com/Son-Sumin/mine/blob/main/Oracle%20Developer%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+  참고) Oracle 서버 최고 관리자 : system 또는 sys
+  - [SQL Plus, Oracle SQL Developer 기본 명령어](https://github.com/Son-Sumin/mine/blob/main/Oracle%20Developer%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 <br>
 
 - [VS Code](https://code.visualstudio.com/Download)   
