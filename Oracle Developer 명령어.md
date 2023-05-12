@@ -32,6 +32,10 @@
 <br>
 
 - 테이블 생성   
+  - 테이블명은 가능한 단수형, 다른 테이블과 중복 불가, 반드시 문자로 시작   
+  - 각 컬럼은 "," 구분, 테이블 생성문은 ";" 로 종결
+  - 컬럼명 뒤에 데이터타입 반드시 지정
+  - 
   ``` sql
     CREATE TABLE 테이블명(컬럼명 컬럼타입);
   ```
@@ -43,7 +47,43 @@
     |2|DNAME|부서명|VARCHAR|14|N|N||
     |3|LOC|지역명|VARCHAR|13|N|N||
     ``` sql
-
+    -- PK 설정 방법1
+      CREATE TABLE DEPARTMENT(
+        DNO NUMBER(2) CONSTRAINT PK_DEPT PRIMARY KEY,
+        DNAME VARCHAR(14) NOT NULL,
+        LOC VARCHAR(13) NOT NULL
+      );
+      COMMIT;
+    ```
+    ``` sql
+    -- PK 설정 방법2
+      CREATE TABLE DEPARTMENT(
+        DNO NUMBER(2) NOT NULL,
+        DNAME VARCHAR(14) NOT NULL,
+        LOC VARCHAR(13) NOT NULL
+        CONSTRAINT PK_DEPT PRIMARY KEY(DNO)
+      );
+      COMMIT;
+    ```
+    ``` sql
+    -- FK 설정 방법1
+      CREATE TABLE EMPLOYEE(
+        ENO NUMBER(4) CONSTRAINT PK_EMP PRIMARY KEY,
+        ...
+        DNO NUMBER(2) CONSTRAINT FK_DNO REFERENCES DEPARTMENT
+      );
+      COMMIT;
+    ```
+    ``` sql
+    -- FK 설정 방법2
+      CREATE TABLE EMPLOYEE(
+        ENO NUMBER(4) NOT NULL,
+        ...
+        DNO NUMBER(2) NOT NULL,
+        CONSTRAINT PK_EMP PRIMARY KEY(ENO),
+        CONSTRAINT FK_DNO FOREIGN KEY(DNO) REFERENCES DEPARTMENT
+      );
+      COMMIT;
     ```
 <br>
 
