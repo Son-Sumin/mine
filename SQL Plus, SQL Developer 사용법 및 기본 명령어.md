@@ -199,3 +199,5 @@
 - [DBMS 오라클 SQL DEVELOPER 단축키 정리](https://jhnyang.tistory.com/entry/DBMS-%EC%98%A4%EB%9D%BC%ED%81%B4-SQL-DEVELOPER-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 - [[Oracle]SQLDeveloper-기본 명령어/테이블 생성하기](https://ga-you-ni.tistory.com/37)
 - [SQL 계정 설정과 로그](https://hec-ker.tistory.com/97)
+- [SQL 기초 (계정 생성, 삭제, 잠금, 비밀번호 설정)](https://daspace.tistory.com/55)
+- [Oracle SQL HR 샘플 스키마 설치 및 생성](https://codedatasotrage.tistory.com/75)
