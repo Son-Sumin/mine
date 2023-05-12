@@ -16,9 +16,9 @@
   <br>
   
 - [Oracle Database Express Edition(XE)](https://github.com/Son-Sumin/mine/blob/main/Oracle%20DB_SQL.md)   
-- [Oracle SQL Developer](https://github.com/Son-Sumin/mine/blob/main/Oracle%20DB_SQL.md)
-  참고) Oracle 서버 최고 관리자 : system 또는 sys
-  - [SQL Plus, Oracle SQL Developer 기본 명령어](https://github.com/Son-Sumin/mine/blob/main/Oracle%20Developer%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+- [Oracle SQL Developer](https://github.com/Son-Sumin/mine/blob/main/Oracle%20DB_SQL.md)   
+  참고) Oracle 서버 최고 관리자 : system 또는 sys   
+- [SQL Plus, SQL Developer 사용법 및 기본 명령어](https://github.com/Son-Sumin/mine/blob/main/SQL%20Plus,%20SQL%20Developer%20%EC%82%AC%EC%9A%A9%EB%B2%95%20%EB%B0%8F%20%EA%B8%B0%EB%B3%B8%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 <br>
 
 - [VS Code](https://code.visualstudio.com/Download)   
