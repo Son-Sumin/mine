@@ -10,18 +10,40 @@
 <br>
 
 - SQL Plus 사용법
-  - 접속방법   
-    - 시작줄 'sql' 검색   
-    - cmd > $ sqlplus 계정명/비밀번호   
+  ```
+  ○ 접속방법   
+    1. 시작줄 'sql' 검색 > SQL Plus 접속  
+    2. cmd >
+       - SYS계정 외 접속
+         $ sqlplus 계정명/비밀번호   
+       
+       - SYS계정 접속
+         $ SQLPLUS " / as sysdba"
+         
+         
+  ○ SYS계정 로그인 방법
+     SQL Plus 접속 > 
+     사용자명 입력: $ /as sysdba
 
-  - SYS계정 로그인 방법
-     - SQL Plus 접속 > 사용자명 입력: $ /as sysdba
 
-  - 계정 정보 확인
+  ○ 계정 정보 확인
     - 계정명은 dba_users 테이블의 username 칼럼에 저장되어 있음
-      ``` sql
-        SELECT USERNAME FROM DBA_USERS;
-      ```      
+        SELECT USERNAME FROM DBA_USERS; 
+        
+        
+  ○ 사용자 생성
+    - oracle 12 이상부터 계정명 앞에 'C##' 붙여야함
+      $ CREATE USER C##계정명 IDENTIFIED BY 비밀번호;
+      
+    - 계정명 앞에 'C##' 붙이지 않고 사용자 생성
+      $ ALTER SESSION SET "_ORACLE_SCRIPT"=TRUE;
+      $ CREATE USER 계정명 IDENTIFIED BY 비밀번호;
+      
+   
+  ○ SQL Plus다른 계정으로 이동
+    1. CONN
+    2. CONNECT
+   ```
 <br>
 
 - 사용자 생성   
@@ -113,9 +135,9 @@
   ``` sql
     DESC 테이블명;
   ```
-
 <br><br>
 
 <참고 사이트>
 - [DBMS 오라클 SQL DEVELOPER 단축키 정리](https://jhnyang.tistory.com/entry/DBMS-%EC%98%A4%EB%9D%BC%ED%81%B4-SQL-DEVELOPER-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 - [[Oracle]SQLDeveloper-기본 명령어/테이블 생성하기](https://ga-you-ni.tistory.com/37)
+- [SQL 계정 설정과 로그](https://hec-ker.tistory.com/97)
