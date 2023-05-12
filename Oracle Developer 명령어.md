@@ -46,6 +46,22 @@
    ```
 <br>
 
+- SQL Developer 사용법   
+  - SYS(관리자) 계정으로 접속하기   
+    <img src="https://github.com/Son-Sumin/mine/assets/114986832/4c96ff78-6ba5-4df9-ab59-787399813f50" width="600" height="450"/>   
+    - 위 그림에 맞게 설치 진행   
+      그림에는 '비밀번호 저장'이 check되어 있음(개인용은 상관 없으나 사무실용은 unckeck!)   
+      저장 시 좌측 베너에 방금 생성한 접속 이름 생김   
+
+    - 7 저장 후 **The Network Adapter could not establish the connection** 에러 발생시   
+      ```
+      cmd > $ ipconfig > IPv4 주소 확인   
+      Oracle SQL Developer > 호스트 이름 : localhost → IPv4 주소 > 저장   
+      ```
+    - 추후 생성된 DB에 접속할 때 위 그림에서 테스트 버튼 클릭 시 "상태:성공" 이 되야 접속 가능   
+    - 일반 계정으로 접속 시 사용자 계정 생성 후 위 과정 실시
+<br>
+
 - 사용자 생성   
   ``` sql
     CREATE USER 사용자이름 IDENTIFIED BY 비밀번호;
@@ -135,6 +151,34 @@
   ``` sql
     DESC 테이블명;
   ```
+<br>
+
+- 테이블 삭제
+  - DELETE
+    - WHERE절 없으면 테이블 전체 삭제, WHERE절 있으면 특정 ROW 삭제
+    - COMMIT을 하지 않으면 되돌릴 수 있음
+    - 테이블의 데이터를 삭제하지만, 테이블 자체는 그대로 유지
+    ``` sql
+    DELETE FROM DEPARTMENT;
+    DELETE FROM DEPARTMENT WHERE DNO = 1;
+    ROLLBACK;
+    COMMIT;
+    ```
+    
+  - TRUNCATE
+    - 테이블 초기화
+    ``` sql
+    TRUNCATE TABLE DEPARTMENT;
+    ```
+    
+  - DROP
+    - 데이터베이스 객체(테이블, 뷰, 인덱스 등) 자체를 삭제하는 데 사용
+    - 해당 객체와 관련된 모든 데이터, 인덱스, 제약 조건 등도 함께 삭제
+    - 객체를 삭제하면 해당 객체와 관련된 모든 데이터와 구조가 완전히 제거
+    ``` sql
+    DROP TABLE DEPARTMENT;
+    ```
+
 <br><br>
 
 <참고 사이트>
