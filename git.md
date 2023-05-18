@@ -1,6 +1,15 @@
+### git 최초 설치 시  
+$ git config --global user.name “user”   
+$ git config --global user.email “email”   
+
+(user, email 입력 잘 되었는지 확인 아래 중 1개 실행)   
+$ git config --global --list   
+$ cat ~/.gitconfig   
+(잘 완료되었다면 앞으로 로컬에서 git add/commit/push 진행 시 확인된 내용으로 진행)
+
 ### global user, email 설정
-$ git config - -global user.name “user”   
-$ git config - -global user.email “email”   
+$ git config --global user.name “user”   
+$ git config --global user.email “email”   
 <br>
 
 ### repository user, email 설정 (해당 저장소 디렉토리로 이동 후)   
@@ -9,13 +18,13 @@ $ git config user.email “email”
 <br>
 
 ### 전역 설정 정보 조회   
-$ (전체정보) git config - -global - -list   
+$ (전체정보) git config --global - -list   
 $ (사용자정보) git config --global user.email   
 $ (사용자정보) git config --global user.name   
 <br>
 
 ### repository 설정 정보 조회   
-$ git config - -list   
+$ git config --list   
 <br>
 
 ### staging, unstaging, untracked 파일 확인   
