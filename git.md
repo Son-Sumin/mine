@@ -5,7 +5,15 @@ $ git config --global user.email “email”
 (user, email 입력 잘 되었는지 확인 아래 중 1개 실행)   
 $ git config --global --list   
 $ cat ~/.gitconfig   
-(잘 완료되었다면 앞으로 로컬에서 git add/commit/push 진행 시 확인된 내용으로 진행)
+(잘 완료되었다면 앞으로 로컬에서 git add/commit/push 진행 시 확인된 내용으로 진행)   
+
+(local storage 내 계정 등록)
+$ git config --global user.name “user”   
+$ git config --global user.email “email”   
+
+(local storage 등록 확인)
+$ git config --list   
+<br>
 
 ### global user, email 설정
 $ git config --global user.name “user”   
