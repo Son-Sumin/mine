@@ -24,14 +24,17 @@
     ![file upload setting](https://github.com/Son-Sumin/mine/assets/114986832/1d6a321a-56e0-4868-b133-0fe7349aa925)
 <br>
 
-- eclipse - Sringboot 프로젝트 생성   
+- **eclipse - Sringboot 프로젝트 생성**   
   - 상단 Help > Eclipse Marketplace > spring 검색 > Spring Tools4 (aka Spring Tool Suite 4) 설치 > 이클립스 재시작   
 
-- Springboot 프로젝트 생성 ①   
-  [spring initializr](https://start.spring.io/) 활용하여 스프링부트 프로젝트 생성   
-  이클립스에서 프로젝트 임포트   
+  - Springboot 프로젝트 생성 ①   
+    [spring initializr](https://start.spring.io/) 활용하여 스프링부트 프로젝트 생성   
+    이클립스에서 프로젝트 임포트   
 
-- Springboot 프로젝트 생성 ②   
-  이클립스에서 Create a project > Spring Boot > Spring Starter Project > 아래 사진 참고 하 프로젝트 생성  
-  <img src="https://github.com/Son-Sumin/mine/assets/114986832/b0e4528e-603f-4641-8f24-679e5df38e55" width="600" height="450"/>   
-  <img src="https://github.com/Son-Sumin/mine/assets/114986832/c501489e-0bac-4151-9026-b54a3ce0483f" width="600" height="450"/>  
+  - Springboot 프로젝트 생성 ②   
+    이클립스에서 Create a project > Spring Boot > Spring Starter Project > 아래 사진 참고 하 프로젝트 생성  
+    <img src="https://github.com/Son-Sumin/mine/assets/114986832/b0e4528e-603f-4641-8f24-679e5df38e55" width="600" height="450"/>   
+    <img src="https://github.com/Son-Sumin/mine/assets/114986832/c501489e-0bac-4151-9026-b54a3ce0483f" width="600" height="450"/>   
+
+  - git 연결   
+    [링크 참고](https://github.com/Son-Sumin/mine/blob/main/git.md)   
