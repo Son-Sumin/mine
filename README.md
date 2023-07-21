@@ -89,7 +89,9 @@
     
   * [Miniconda, Jupyter](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)   
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드
-  * [Spark]()   
+  * Spark
+    [참고1](https://ahnty0122.tistory.com/22)
+    [참고2](https://dibrary.tistory.com/89#recentComments)   
     <br>
     
   * [Lombok](https://projectlombok.org/download)   
