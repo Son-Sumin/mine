@@ -121,3 +121,6 @@
     [설치 간 참고 링크](https://github.com/Son-Sumin/ml_dl/tree/main/scraping)   
     (크롤링 selenium을 구글에서 사용할 것이므로 설치)   
     (다른 사이트 크롤링 시 해당 드라이버 설치)   
+
+  * tgz 파일압축 및 압축해제   
+    [참고1](https://hooeni.tistory.com/206), [참고2](https://psychoria.tistory.com/695)   
