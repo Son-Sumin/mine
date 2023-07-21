@@ -73,17 +73,25 @@
   * [Tomcat](https://tomcat.apache.org/download-90.cgi)   
     [Tomcat 설치 확인](https://www.iotworks.co.kr/xe/index.php?mid=Server&document_srl=59397)   
   * [jenkins](https://github.com/Son-Sumin/Linux/tree/main/%EC%84%A4%EC%B9%98)
+    <br>
+    
   * [VMWare_CentOS7](https://github.com/Son-Sumin/Linux/blob/main/VMWare_CentOS7.md)   
   * [VirtualBox, Xshell5, CentOS7](https://github.com/Son-Sumin/Linux)    
-  * [Ubuntu](https://ubuntu.com/download/desktop)   
-  * [BootStrap](https://getbootstrap.com/docs/3.4/getting-started/)   
+  * [Ubuntu](https://ubuntu.com/download/desktop)
+    <br>
+
   * [Node.js](https://nodejs.org/ko/download/)   
     (Node.js 설치 시 npm 자동 설치됨)   
     Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
     cmd > $ node --version > 버전 출력되면 설치 완료
     cmd > $ npm --version > 버전 출력되면 설치 완료
+    <br>
+    
   * [Miniconda, Jupyter](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)   
-    Microsoft Store > terminal 검색 > Windows Terminal 다운로드   
+    Microsoft Store > terminal 검색 > Windows Terminal 다운로드
+  * [Spark]()   
+    <br>
+    
   * [Lombok](https://projectlombok.org/download)   
     [Lombok 설치 및 Eclipse 적용 불가 시 해결법](https://github.com/Son-Sumin/mine/blob/main/Lombok%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%81%EC%9A%A9.md)   
   * [Postman](https://www.postman.com/downloads/)   
@@ -94,6 +102,7 @@
     Installer edition 설치
   * [FileZilla Download](https://filezilla-project.org/)   
     Download FileZilla Client
+  * [BootStrap](https://getbootstrap.com/docs/3.4/getting-started/)   
   <br>
 
 - 기타 Tool   
