@@ -36,16 +36,22 @@
     <img src="https://github.com/Son-Sumin/mine/assets/114986832/b0e4528e-603f-4641-8f24-679e5df38e55" width="600" height="450"/>   
     <img src="https://github.com/Son-Sumin/mine/assets/114986832/c501489e-0bac-4151-9026-b54a3ce0483f" width="600" height="450"/>   
 
-  - git 연결   
+  - **git 연결**   
     - [참고 링크](https://github.com/Son-Sumin/mine/blob/main/git.md)   
 
-  - Lombok   
+  - **Lombok**   
     - [Lombok 다운로드](https://projectlombok.org/download)   
     - [Lombok 설치 및 적용](https://github.com/Son-Sumin/mine/blob/main/Lombok%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%81%EC%9A%A9.md)
 
-<br> 
+<br>
+
 * * *
 <br>
 
 ### 이클립스 삭제   
-이클립스는 별도의
+- 이클립스는 별도의 uninstall 파일이 없어 직접 삭제해야함
+  (.eclipse .p2 는 C:\Users\~ 확인 바람)   
+  - .eclipse   
+  - .p   
+  - eclipse   
+  - eclipse-workspace   
