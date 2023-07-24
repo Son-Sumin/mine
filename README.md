@@ -6,14 +6,18 @@
 <br>
 
 ## tool 설치 및 세팅   
+- [Java](https://www.oracle.com/kr/java/technologies/javase/jdk12-archive-downloads.html)   
+  시스템변수 추가(C:\Program Files\Java\jdk-12.0.2\bin)   
+  cmd > #java --version > 버전 출력되면 설치 완료   
+  <br>
+  
 - [MariaDB - MySQLWorkbench](https://github.com/Son-Sumin/mine/blob/main/MariaDB_MySQL%20Workbench.md)   
   MariaDB 설치 > [VC_redist.x64.exe](https://github.com/Son-Sumin/mine/blob/main/VC_redist.x64.exe) 설치 > MySQLWorkbench 설치 >   
   시스템변수 추가(C:\Program Files\MariaDB 10.5\bin)   
   cmd > #mariadb --version > 버전 출력되면 설치 완료   
   cmd > #mysql --version > 버전 출력되면 설치 완료   
   참고) MySQL 서버 최고 관리자 : root
-
-  <br>
+<br>
   
 - [Oracle Database Express Edition(XE)](https://github.com/Son-Sumin/mine/blob/main/Oracle%20DB_SQL.md)   
 - [Oracle SQL Developer](https://github.com/Son-Sumin/mine/blob/main/Oracle%20DB_SQL.md)   
@@ -38,11 +42,6 @@
     - Live Preview   
   <br>
  
-- [Java](https://www.oracle.com/kr/java/technologies/javase/jdk12-archive-downloads.html)   
-  시스템변수 추가(C:\Program Files\Java\jdk-12.0.2\bin)   
-  cmd > #java --version > 버전 출력되면 설치 완료   
-  <br>
-  
 - [Eclipse](https://github.com/Son-Sumin/mine/blob/main/Eclipse.md)   
   <br>
   
@@ -89,9 +88,7 @@
     
   * [Miniconda, Jupyter](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)   
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드
-  * Spark
-    [참고1](https://ahnty0122.tistory.com/22)
-    [참고2](https://dibrary.tistory.com/89#recentComments)   
+  * [Spark](https://github.com/Son-Sumin/mine/blob/main/Spark.md)   
     <br>
     
   * [Lombok](https://projectlombok.org/download)   
