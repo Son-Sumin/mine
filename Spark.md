@@ -5,17 +5,42 @@
   cmd > #java --version > 버전 출력되면 설치 완료     
   * [가상환경 생성 및 Python 3.8 설치 참고](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)
 - Spark를 Local에 설치할 것이고, PySpark를 사용할 때는 Python이 설치되어 있는 가상환경에 진입하여 사용 예정임
+<br><br><br>
+
+- [Spark](https://spark.apache.org/downloads.html)   
+  'Download Spark' 클릭 > 여러 .tgz 파일 중 하나 다운로드   
+  내 PC > C: >  'Spark' 폴더 생성 > 방금 다운받은 tgz 파일을 폴더 안으로 이동   
+  tgz 압축 해제 (압축 해제 방법 아래 참고)   
+  시스템변수 추가(C:\Spark\spark-3.4.1-bin-hadoop3\bin) 
+  - cmd   
+  ```
+    .tgz 파일이 있는 디렉토리로 이동 후
+    $ tar -xvzf 파일이름.tgz
+  ```  
+  <img src="https://github.com/Son-Sumin/mine/assets/114986832/98774de9-659f-4c4e-81de-2c640848679b" width="450" height="350"/>
+  <img src="https://github.com/Son-Sumin/mine/assets/114986832/e967a908-2d14-4063-b6ab-831a6f64bad1" width="450" height="350"/>
+  <br><br><br>
+
+- [Winutils](http://github.com/cdarlint/winutils)   
+  - 분산 처리 환경으로부터 데이터를 하나의 실행 환경에서 다루는 것처럼 해주므로 Spark는 Hadoop이 필요함   
+    그 Hadoop 역할을 하는 것이 Winutils   
+  
+  내 PC > C: >  'Hadoop ' 폴더 생성 > Hadoop 폴더 안에 'bin' 폴더 생성   
+  Spark 버전에 맞는 'hadoop-x.x.x/bin' 클릭 >  방금 생성한 bin 폴더 안에 winutils.exe 파일 다운로드   
+  시스템변수 추가(C:\Hadoop\bin)    
+
+- 설치 확인  
+  cmd   
+  ```
+    $ spark-shell
+     또는
+    $ pyspark
+  ```
+  
+
 <br><br>
 
-- [Eclipse 다운로드](https://www.eclipse.org/downloads/)   
-  Eclipse IDE Download Packages > Eclipse IDE for Enterprise Java and Web Developers > Windows x86_64 설치   
-
-  - 상단 Window > Preferences >   
-    encoding 검색 > Content Types > Text 내 모든 항목 UTF-8로 세팅 ( java Properties File 제외)	   
-    encoding 검색 > Workspace, Web, XML  UTF-8로 세팅   
-    spelling 검색 > Enable spell checking 체크 해제   
-
-<br><br>
+* * *
 
 ### TroubleShooting
 - 에러내용 :    
@@ -29,6 +54,8 @@
 
 
 <br><br>
+
+* * *
 
 ### REFERENCE   
 - Windows 에 Apache Spark 설치  
