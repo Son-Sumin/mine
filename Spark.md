@@ -7,7 +7,7 @@
 - Spark를 Local에 설치할 것이고, PySpark를 사용할 때는 Python이 설치되어 있는 가상환경에 진입하여 사용 예정임
 <br><br><br>
 
-- [Spark](https://spark.apache.org/downloads.html)   
+- ### [Spark](https://spark.apache.org/downloads.html)   
   'Download Spark' 클릭 > 여러 .tgz 파일 중 하나 다운로드   
   내 PC > C: >  'Spark' 폴더 생성 > 방금 다운받은 tgz 파일을 폴더 안으로 이동   
   tgz 압축 해제 (압축 해제 방법 아래 참고)   
@@ -21,7 +21,7 @@
   <img src="https://github.com/Son-Sumin/mine/assets/114986832/e967a908-2d14-4063-b6ab-831a6f64bad1" width="450" height="350"/>
   <br><br><br>
 
-- [Winutils](http://github.com/cdarlint/winutils)   
+- ### [Winutils](http://github.com/cdarlint/winutils)   
   - 분산 처리 환경으로부터 데이터를 하나의 실행 환경에서 다루는 것처럼 해주므로 Spark는 Hadoop이 필요함   
     그 Hadoop 역할을 하는 것이 Winutils   
   
@@ -29,11 +29,17 @@
   Spark 버전에 맞는 'hadoop-x.x.x/bin' 클릭 >  방금 생성한 bin 폴더 안에 winutils.exe 파일 다운로드   
   시스템변수 추가(C:\Hadoop\bin)    
 
+<br><br>
+
 - 설치 확인  
   cmd   
   ```
+    $ pip install pyspark
+  
+    - Scala 사용할 경우
     $ spark-shell
-     또는
+    
+    - Python 사용할 경우
     $ pyspark
   ```
   
@@ -41,6 +47,8 @@
 <br><br>
 
 * * *
+
+<br>
 
 ### TroubleShooting
 - 에러내용 :    
@@ -56,6 +64,8 @@
 <br><br>
 
 * * *
+
+<br>
 
 ### REFERENCE   
 - Windows 에 Apache Spark 설치  
