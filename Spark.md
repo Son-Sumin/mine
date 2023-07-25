@@ -42,7 +42,8 @@
     - Python 사용할 경우
     $ pyspark
   ```
-  
+  - [Apache Spark란?](https://yuna96.tistory.com/83#google_vignette)
+  - [스파크 자료구조](https://blog.naver.com/pjt3591oo/222724676035)   
 
 <br><br>
 
@@ -72,6 +73,7 @@
   - https://dibrary.tistory.com/89#recentComments   
   - https://ahnty0122.tistory.com/22   
   - https://yuna96.tistory.com/83#google_vignette   
+  - https://spidyweb.tistory.com/199     
 
 - TroubleShooting
   - https://wubl.net/%EC%9C%88%EB%8F%84%EC%9A%B0-%ED%8C%8C%EC%9D%BC%EC%97%90-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4-%EB%98%90%EB%8A%94-%EA%B8%B0%ED%83%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%8F%99%EC%9D%98-%EC%97%86%EC%9D%B4/   
