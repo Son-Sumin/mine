@@ -44,6 +44,9 @@
  
 - [Eclipse](https://github.com/Son-Sumin/mine/blob/main/Eclipse.md)   
   <br>
+
+- [IntelliJ](https://github.com/Son-Sumin/mine/blob/main/IntelliJ.md)   
+  <br>
   
 - [Pycharm](https://github.com/Son-Sumin/python-practices/blob/main/1017%20%ED%8C%8C%EC%9D%B4%EC%B0%B8%20%EC%84%A4%EC%B9%98.md) (pip 활용)   
   [Pycharm 설치](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)   
