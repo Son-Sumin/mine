@@ -12,10 +12,11 @@
   - 상단 Window > Perspective > Open perspective > Java   
     상단 Window > Show View > Project Explorer, Git Repository, Git Staging, Navigator 세팅(없으면 Other... 에서 검색)   
     (우측 상단 javaEE , java 주로 사용하니 참고)
+    (+추가 : Navigator 사라짐)
 
   - 상단 Window > Preferences > Java > 
     Compiler > Compiler compliance level : Java 설치 버전으로 세팅   
-    installed JREs > 존재하는거 지우고 jdk 설치 경로 add (C:\Program Files\Java\jdk-12.0.2)   
+    installed JREs > 존재하는거 지우고 jdk 설치 경로 add (C:\Program Files\Java\jdk-12.0.2)
 <br>
 
 - file upload setting   
