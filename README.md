@@ -40,9 +40,10 @@
     - Live Sass Compiler   
     - Sass   
     - Live Preview   
-  * 삭제 방법
-    - C:\USER\사용자명\.vscode 폴더 삭제
-    - C:\USER\사용자명\AppData\Roaming\Code 폴더 삭제   
+  * 삭제 방법   
+    - C:\Users\사용자명\.vscode 폴더 삭제   
+    - C:\Users\사용자명\AppData\Roaming\Code 폴더 삭제   
+    - C:\Users\사용자명\AppData\Local\Programs\Microsoft VS Code 폴더 삭제   
     - 제어판 > 프로그램 추가/제거 > VS Code 삭제   
   <br>
  
