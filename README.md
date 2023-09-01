@@ -129,3 +129,9 @@
 
   * tgz 파일압축 및 압축해제   
     [참고1](https://hooeni.tistory.com/206), [참고2](https://psychoria.tistory.com/695)   
+  <br>
+
+- Chrome Extension   
+  * Chrome Remote Desktop   
+  * JSON Formatter   
+  * Wappalyzer - Technology profiler   
