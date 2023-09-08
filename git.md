@@ -1,4 +1,5 @@
-### git 최초 설치 시  
+### git 최초 설치 시     
+
 $ git config --global user.name “user”   
 $ git config --global user.email “email”   
 
@@ -14,6 +15,10 @@ $ git config --global user.email “email”
 (local storage 등록 확인)
 $ git config --list   
 <br>
+
+[참고 링크](https://velog.io/@simchodi/Git-%EC%B4%88%EA%B8%B0%EC%84%B8%ED%8C%85-%EA%B8%B0%EB%B3%B8%EB%AA%85%EB%A0%81%EC%96%B4)   
+<br>
+
 
 ### global user, email 설정
 $ git config --global user.name “user”   
