@@ -76,6 +76,7 @@
    
 - 기타 설치 권장 Tool   
   * [Git](https://git-scm.com/download/win)   
+    [설치 간 세부내용 참고](https://code-lab1.tistory.com/249)   
     cmd > #git --version > 버전 출력되면 설치 완료
   * [Tomcat](https://tomcat.apache.org/download-90.cgi)   
     [Tomcat 설치 확인](https://www.iotworks.co.kr/xe/index.php?mid=Server&document_srl=59397)   
