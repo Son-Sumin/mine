@@ -1,10 +1,12 @@
 ## MariaDB - MySQL Workbench
+- 아래 기재된 버전은 글 작성 시 버전이므로 설치 당시의 최적화 버전을 설치하면 됨   
+<br>
 
-- [MariaDB 10.5.18 다운로드](https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.5.18&os=windows&cpu=x86_64&pkg=msi&m=blendbyte)
-  MariaDB Server Version 선택 시 버전 뒤에 Alpha, RC 등이 없는 것으로 선택할 것을 권장함   
-  운영체계, x86_64, MSI 확인 후 다운로드 > Modify password~, Use UTF8~ check > 설치   
-  MariaDB cmd promp 관리자 버전 접속 > #mariadb -u root -p > #root 비밀번호 설정
-  **root 비밀번호 메모 必**
+- [MariaDB 10.5.18 다운로드](https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.5.18&os=windows&cpu=x86_64&pkg=msi&m=blendbyte)   
+  - MariaDB Server Version 선택 시 버전 뒤에 Alpha, RC 등이 없는 것으로 선택할 것을 권장함   
+  - 운영체계, x86_64, MSI 확인 후 다운로드 > Modify password~, Use UTF8~ check > 설치   
+    MariaDB cmd promp 관리자 버전 접속 > #mariadb -u root -p > #root 비밀번호 설정   
+  - **root 비밀번호 메모 必**
   <br>
   
 - [MySQL Workbench 다운로드](https://dev.mysql.com/downloads/workbench/)   
