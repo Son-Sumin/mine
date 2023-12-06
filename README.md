@@ -25,6 +25,11 @@
 - [SQL Plus, SQL Developer 사용법 및 기본 명령어](https://github.com/Son-Sumin/mine/blob/main/SQL%20Plus,%20SQL%20Developer%20%EC%82%AC%EC%9A%A9%EB%B2%95%20%EB%B0%8F%20%EA%B8%B0%EB%B3%B8%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 <br>
 
+- [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)   
+  - https://backendcode.tistory.com/225
+  - https://nazzang19.tistory.com/30   
+<br>
+
 - [VS Code](https://code.visualstudio.com/Download)   
   User Installer 64bit 설치 > 시스템변수 추가(C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin)   
   * Extensions 설치 권장   
