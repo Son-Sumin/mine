@@ -27,7 +27,8 @@
 
 - [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)   
   - https://backendcode.tistory.com/225   
-  - https://nazzang19.tistory.com/30   
+  - https://nazzang19.tistory.com/30
+  - https://www.devkuma.com/docs/postgresql/path-%EC%84%A4%EC%A0%95/   
   - pgAdmin4 위치 : C:\Program Files\PostgreSQL\15\pgAdmin 4\runtime   
   - 시스템변수 추가 : C:\Program Files\PostgreSQL\15\bin   
 <br>
