@@ -96,12 +96,23 @@
   * [Ubuntu](https://ubuntu.com/download/desktop)
     <br>
 
-  * [Node.js](https://nodejs.org/ko/download/)   
+  * [Node.js](https://nodejs.org/en/download)   
     (Node.js 설치 시 npm 자동 설치됨)   
     Windows Installer(.msi) 64-bit 다운로드 > 시스템변수 추가(C:\Program Files\nodejs\)   
     cmd > $ node --version > 버전 출력되면 설치 완료
     cmd > $ npm --version > 버전 출력되면 설치 완료
+ 
+    * 완전 삭제 방법   
+      1. 아래 디렉토리 삭제   
+         - C:\Program Files (x86)\Nodejs
+         - C:\Program Files\Nodejs
+         - C:\Users\User\AppData\Roaming\npm
+         - C:\Users\User\AppData\Roaming\npm-cache
+      2. 결과가 에러나면 성공   
+         cmd > $ node -v       
     <br>
+
+    
     
   * [Miniconda, Jupyter](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)   
     Microsoft Store > terminal 검색 > Windows Terminal 다운로드
