@@ -31,7 +31,8 @@
   - https://www.devkuma.com/docs/postgresql/path-%EC%84%A4%EC%A0%95/   
   - pgAdmin4 위치 : C:\Program Files\PostgreSQL\15\pgAdmin 4\runtime   
   - 시스템변수 추가 : C:\Program Files\PostgreSQL\15\bin   
-  - [pgAdmin4 단축키](https://min-soo.tistory.com/13)   
+  - [pgAdmin4 단축키](https://min-soo.tistory.com/13)
+  - [참고](https://valuefactory.tistory.com/491)   
 <br>
 
 - [VS Code](https://code.visualstudio.com/Download)   
